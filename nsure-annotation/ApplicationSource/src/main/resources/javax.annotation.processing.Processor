@@ -1,0 +1,2 @@
+com.kgisl.nsure.data.annotation.processor.ColumnAnnotationProcessor
+com.kgisl.nsure.data.annotation.processor.TableAnnotationProcessor
